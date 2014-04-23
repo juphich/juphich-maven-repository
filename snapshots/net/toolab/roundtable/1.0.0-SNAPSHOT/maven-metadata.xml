@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.toolab</groupId>
+  <artifactId>roundtable</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140423.140529</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20140423140529</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20140423.140529-2</value>
+        <updated>20140423140529</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
